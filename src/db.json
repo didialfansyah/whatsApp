@@ -1,0 +1,98 @@
+[
+    {
+      "id": "1",
+      "chat": [
+          {
+              "Text" : "Halo Apa Kabar",
+              "Time" : "5.15 pm" 
+          }
+      ],
+      "name": "Jackie Konopelski",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ademilter/128.jpg",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "chat": [
+        {
+            "Text" : "Siapa Di Sana, ....",
+            "Time" : "5.10 pm" 
+        }
+      ],
+      "name": "Jerod Walsh",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleinadsays/128.jpg",
+      "status": 1
+    },
+    {
+      "id": "3",
+      "chat": [
+        {
+            "Text" : "Dimana Posisi",
+            "Time" : "4.28 pm" 
+        }
+      ],
+      "name": "Clotilde Bergnaum PhD",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nepdud/128.jpg",
+      "status": 0
+    },
+    {
+      "id": "4",
+      "chat": [
+        {
+            "Text" : "Halo Apa Kabar",
+            "Time" : "4.12 pm" 
+        }
+      ],
+      "name": "Lue Prohaska",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/konus/128.jpg",
+      "status": 1
+    },
+    {
+      "id": "5",
+      "chat": [
+        {
+            "Text" : "Halo Apa Kabar",
+            "Time" : "1.15 pm" 
+        }
+      ],
+      "name": "Danika Effertz",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/langate/128.jpg",
+      "status": 0
+    },
+    {
+      "id": "6",
+      "chat": [
+        {
+            "Text" : "Halo Apa Kabar",
+            "Time" : "12.00 am" 
+        }
+      ],
+      "name": "Modesto Leuschke",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/spedwig/128.jpg",
+      "status": 0
+    },
+    {
+      "id": "7",
+      "chat": [
+        {
+            "Text" : "Halo Apa Kabar",
+            "Time" : "11.23 am" 
+        }
+      ],
+      "name": "Jeremie Batz",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+      "status": 0
+    },
+    {
+      "id": "8",
+      "chat": [
+        {
+            "Text" : "Halo Apa Kabar",
+            "Time" : "10.15 am" 
+        }
+      ],
+      "name": "Estel Gerhold",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thehacker/128.jpg",
+      "status": 0
+    }
+  ]
